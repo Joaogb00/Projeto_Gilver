@@ -14,7 +14,7 @@
 
         <section class="inicio" id="inicio">
             <div class="conteiner fade-in">
-                <h1 class="slogan slide-up">Pagode que o povo canta!</h1>
+                <h1 class="slogan slide-up">Pagode que o povo canta!!</h1>
                 <h2 class="sub-slogan slide-up delay-1">O novo álbum já está disponível. Ouça agora!</h2>
                 
                 <div class="botoes slide-up delay-2">
